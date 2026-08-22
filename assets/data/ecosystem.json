@@ -141,10 +141,17 @@
 },
 {
 	"name": "Kaspa Name Service",
-	"description": "Decentralized name service on Kaspa, enabling secure, scalable domain name and arbitrary text inscription for personalized digital identities and asset management.",
+	"description": "Decentralized covenant-backed .kaspa names on Kaspa L1 with consensus-enforced ownership, transfers, and on-chain marketplace.",
+	"link": "https://kaspaname.com",
+	"logo": "https://kaspahub.org/assets/logos/kaspaname.webp",
+	"features": ["marketplace"]
+},
+{
+	"name": "KNS",
+	"description": "Name service on Kaspa, enabling secure, scalable domain name and arbitrary text inscription for personalized digital identities and asset management.",
 	"link": "https://app.knsdomains.org",
 	"logo": "https://kaspahub.org/assets/logos/kns.webp",
-	"features": ["reviewed", "marketplace"]
+	"features": ["marketplace"]
 },
 {
 	"name": "OverBuild Labs",
@@ -481,6 +488,13 @@
 	"link": "https://tx-missile-command.com",
 	"logo": "https://kaspahub.org/assets/logos/tx-missile-command.webp",
 	"features": ["reviewed", "gaming"]
+},
+{
+	"name": "Pixel Peeps",
+	"description": "A playable meme coin on Kaspa. Tap the coin, build a pixel-art city one Peep-grade at a time, click, upgrade, automate, and buy $PEEPS - a coin you can actually play.",
+	"link": "https://pixel-peeps.com",
+	"logo": "https://kaspahub.org/assets/logos/pixel-peeps.webp",
+	"features": ["gaming"]
 },
 {
 	"name": "The Business Directory",
