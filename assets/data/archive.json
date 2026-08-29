@@ -70,13 +70,6 @@
   "features": []
 },
 {
-  "name": "TheCryptoSky",
-  "description": "A marketplace for buying and selling goods, services, and listing jobs, all paid in Kaspa, with a secure on-chain wallet and escrow trading system for fast, low-fee transactions.",
-  "link": "https://thecryptosky.com",
-  "logo": "https://kaspahub.org/assets/logos/archive/thecryptosky.webp",
-  "features": ["jobs", "marketplace"]
-},
-{
   "name": "BLOCKS",
   "description": "A tokenized mining project on Kaspa for passive income via sustainable mining. Among top miners by petahash, it reinvests in hardware like Bitmain KS5 Pro and distributes rewards transparently.",
   "link": "https://blocksonkaspa.com",
@@ -96,13 +89,6 @@
   "link": "https://www.kasbun.com",
   "logo": "https://kaspahub.org/assets/logos/archive/kasbun.webp",
   "features": ["education", "education"]
-},
-{
-  "name": "OnChain POS",
-  "description": "A professional point-of-sale platform for retail and online businesses to accept cryptocurrency payments directly to their wallet, with real-time on-chain verification and built-in management tools.",
-  "link": "https://onchainpos.live",
-  "logo": "https://kaspahub.org/assets/logos/archive/onchainpos.webp",
-  "features": ["development", "payments"]
 },
 {
   "name": "Kasia Book",

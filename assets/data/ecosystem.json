@@ -107,7 +107,7 @@
 {
 	"name": "kascov",
 	"description": "Covenant and smart coin explorer for Kaspa. Tracks coin events with full history preservation, script decoder for post-Toccata opcodes including ZK verification, and SilverScript contract recognition.",
-	"link": "https://kascov-explorer.web.app",
+	"link": "https://kascov.io",
 	"logo": "https://kaspahub.org/assets/logos/kascov.webp",
 	"features": ["reviewed", "analytics"]
 },
@@ -229,6 +229,13 @@
 	"link": "https://kasshi.io",
 	"logo": "https://kaspahub.org/assets/logos/kasshi.webp",
 	"features": ["reviewed", "social"]
+},
+{
+	"name": "TheCryptoSky",
+	"description": "A marketplace for buying and selling goods, services, and listing jobs, all paid in Kaspa, with a secure on-chain wallet and escrow trading system for fast, low-fee transactions.",
+	"link": "https://thecryptosky.com",
+	"logo": "https://kaspahub.org/assets/logos/archive/thecryptosky.webp",
+	"features": ["jobs", "marketplace"]
 },
 {
 	"name": "KasMart",
@@ -369,6 +376,13 @@
 	"link": "https://github.com/Kasway-Tech/pos",
 	"logo": "https://kaspahub.org/assets/logos/kasway.webp",
 	"features": ["reviewed", "dart", "development", "payments"]
+},
+{
+	"name": "OnChain POS",
+	"description": "A professional point-of-sale platform for retail and online businesses to accept cryptocurrency payments directly to their wallet, with real-time on-chain verification and built-in management tools.",
+	"link": "https://onchainpos.live",
+	"logo": "https://kaspahub.org/assets/logos/archive/onchainpos.webp",
+	"features": ["development", "payments"]
 },
 {
 	"name": "KasSigner",
@@ -1250,6 +1264,13 @@
 	"description": "Modern, non-custodial DeFi wallet for Kaspa, supporting KRC20 tokens, KNS domains, and a L1 on-chain marketplace for seamless asset management.",
 	"link": "https://kasanova.app",
 	"logo": "https://kaspahub.org/assets/logos/kasanova.webp",
+	"features": ["wallet"]
+},
+{
+	"name": "Kaspire",
+	"description": "Open-source self-custody Kaspa wallet for Android and browser extension. Supports all L1/L2 assets, WalletConnect v2, BIP39 passphrases, and Argon2id.",
+	"link": "https://kaspire.kaslab.space",
+	"logo": "https://kaspahub.org/assets/logos/kaspire.webp",
 	"features": ["wallet"]
 },
 {
